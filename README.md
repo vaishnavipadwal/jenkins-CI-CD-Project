@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# jenkins-CI-CD-Project
-=======
 # 3-tier app (frontend, backend, database) on Kubernetes using Jenkins CI/CD
 
 ## Step 1: I Set up project structure locally (Windows / VS Code terminal)
