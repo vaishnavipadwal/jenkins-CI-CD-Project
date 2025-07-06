@@ -1,5 +1,4 @@
 # 3-tier app (frontend, backend, database) on Kubernetes using Jenkins CI/CD
----
 
 ## Step 1: I Set up project structure locally (Windows / VS Code terminal)
 
@@ -7,7 +6,6 @@
 * Inside it, create three folders: `frontend`, `backend`, `sql`.
 * Also create a folder named `k8s` for Kubernetes manifests.
 
----
 
 ## Step 2: I Prepared backend (Node.js API)
 
