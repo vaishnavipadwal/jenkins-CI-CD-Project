@@ -360,4 +360,3 @@ You will have a working frontend website served by Nginx, a backend API running 
 This setup lets you focus on coding while Jenkins and Kubernetes handle the building, updating, and running of your app automatically.
 
 
->>>>>>> c60463b12e52eb727b35d9792874271d5e305960
